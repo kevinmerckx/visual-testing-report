@@ -1,0 +1,26 @@
+{
+  "name": "visual-testing-report",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinmerckx/visual-testing-report.git"
+  },
+  "author": "Kevin Merckx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kevinmerckx/visual-testing-report/issues"
+  },
+  "homepage": "https://github.com/kevinmerckx/visual-testing-report#readme",
+  "dependencies": {
+    "colors": "^1.3.2",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7",
+    "pixelmatch": "^4.0.2",
+    "pngjs": "^3.3.3"
+  }
+}
